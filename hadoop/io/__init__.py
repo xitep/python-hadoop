@@ -28,6 +28,7 @@ from Writable import *
 from IntWritable import *
 from Text import *
 from BytesWritable import *
+from NullWritable import *
 import WritableUtils
 
 import compress
